@@ -1,6 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:New Unity Project/Assets/Tyler/TS_Models/Mat 1.mat.meta
 guid: c095f579a51f61c4a8e13d98721b4920
 NativeFormatImporter:
+=======
+<<<<<<< HEAD
+guid: fe9af455aae64544fb7b33ddfc7f3780
+=======
+guid: 32d5a5518c9dc074abd5c61a1eeddf4e
+>>>>>>> 5809e42476d9d8219344bff0bac4911bfe559e35
+DefaultImporter:
+>>>>>>> ea446b87d7de2d43392e957eea0845d0b4edea45:New Unity Project/Assets/Tyler.meta~3b5dba91a2b24291d4f9213ecdd09d095506bd74.meta
   externalObjects: {}
   mainObjectFileID: 2100000
   userData: 
