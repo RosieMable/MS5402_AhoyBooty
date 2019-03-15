@@ -60,16 +60,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Rosie\AS_Scripts\BullEyeMinigame.cs" />
     <Compile Include="Assets\Rosie\AS_Scripts\GameManager.cs" />
     <Compile Include="Assets\Rosie\AS_Scripts\Hat.cs" />
     <Compile Include="Assets\Rosie\AS_Scripts\HatMinigame.cs" />
+    <Compile Include="Assets\Rosie\AS_Scripts\MinigameBase.cs" />
     <Compile Include="Assets\Rosie\AS_Scripts\Singleton.cs" />
     <Compile Include="Assets\Rosie\AS_Scripts\TouchManager.cs" />
     <Compile Include="Assets\Rosie\AS_Scripts\UIManager.cs" />
-    <None Include="Assets\StreamingAssets\Vuforia\Target_AhoyBooty.xml" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Target_AhoyBooty.xml" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />

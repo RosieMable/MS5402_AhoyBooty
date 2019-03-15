@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StartScreen.unity
     guid: a9170b37d617c164b9c1fa6e300dc939
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AR_AhoyBooty.unity
     guid: 98889adf74e7d004abf4c74e38bc43ca
+  - enabled: 1
+    path: Assets/Scenes/PirateHatMinigame.unity
+    guid: 2be6734f06f8c0f499d6ce31dc3f7f66
+  - enabled: 0
+    path: Assets/Scenes/BulleyeMinigame.unity
+    guid: dee7b37545a2d8546b9f1831b1d48725
   m_configObjects: {}

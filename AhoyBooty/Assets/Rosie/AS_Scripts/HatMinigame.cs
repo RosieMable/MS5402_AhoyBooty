@@ -1,8 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.UI;
+using Vuforia;
 
-public class HatMinigame : TouchManager
+public class HatMinigame : MinigameBase
 {
     [SerializeField] private Transform[] SpawnPositions;
     [SerializeField] private GameObject HatPrefab;
@@ -14,9 +17,16 @@ public class HatMinigame : TouchManager
     // Start is called before the first frame update
     void Start()
     {
+
+        base.Start();
+
+
         SpawnHats();
 
         Invoke("PickRandomHat", 0.6f);
+
+
+
     }
 
     void SpawnHats()
@@ -32,7 +42,10 @@ public class HatMinigame : TouchManager
 
     private void Update()
     {
+
+
         base.Update();
+
     }
 
     private void PickRandomHat()
