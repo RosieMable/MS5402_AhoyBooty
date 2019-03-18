@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="CannonScanTarget" size="100.000000 71.428574" />
+    <ImageTarget name="KrakenScanTarget" size="100.000000 71.428574" />
     <ImageTarget name="Scan_Target_Pirate_Hat_Game_Updated" size="100.000000 61.009174" />
     <ImageTarget name="Scan_Bullseye" size="100.000000 71.428574" />
     <ImageTarget name="Untitled-1" size="10.000000 5.714286" />
-    <ImageTarget name="ImageTargetTry" size="20.000000 14.000000" />
   </Tracking>
 </QCARConfig>
