@@ -1,8 +1,9 @@
 Android
 PlayerPath?
-C:/Users/Rosie/Desktop/AhoyBooty/AhoyBootyTry2.apk
+C:/Users/Rosie/Desktop/AhoyBooty/AhoyBootyTry3.apk
 SceneListBegin?
-Assets/Scenes/PirateHatMinigame.unity
+Assets/Scenes/StartScreen.unity
+Assets/Scenes/Minigames.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f VuforiaScripts.dll:.BoundingBoxRenderer
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -87,6 +88,8 @@ fc108ce7d98c40ac0907e8ca7f500c76 UnityEngine.UI.dll:UnityEngine.UI.Text
 0fd6822f6177297bd0eb4d83cc7a9030 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+0e6e1b9b736ecf19e5d3f471f6f10679 Assembly-CSharp.dll:.KrakenMinigame
+0e6e1b9b736ecf19e5d3f471f6f10679 Assembly-CSharp.dll:.BullEyeMinigame
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 06f0fef534ca4c1d6064fd77a26bf722 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 780e8f682b3221346c034a6712a0fd25 UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -225,6 +228,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 71bb6a6b6c8f052f948db64c7dd3ca4f VuforiaScripts.dll:.DefaultTrackableEventHandler
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
+0e6e1b9b736ecf19e5d3f471f6f10679 Assembly-CSharp.dll:.MinigameBase
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 cf96e5f7b3d069bab453925bd41be04e UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
@@ -243,11 +247,13 @@ c00b81176f3626f195fc6b0fe601684a Assembly-CSharp.dll:.Hat
 2961efa568803a5c676853637fea2c47 VuforiaScripts.dll:.DefaultModelRecoEventHandler
 a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 5fc094978ce3e3591a7500ed380d854a Unity.Analytics.DataPrivacy.dll:UnityEngine.Analytics.DataPrivacyButton
-db532c791b55190edd9bf526c604d9c1 Assembly-CSharp.dll:.HatMinigame
+ff61b2864960d6ef0115bf5e80efb586 Assembly-CSharp.dll:.HatMinigame
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+0e6e1b9b736ecf19e5d3f471f6f10679 Assembly-CSharp.dll:.CanonMinigame
 55b1bccf16ad474aead5bdd966cf6ad1 Assembly-CSharp.dll:.GameManager
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.DepthTexture
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
